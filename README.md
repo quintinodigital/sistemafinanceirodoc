@@ -1,47 +1,51 @@
 ## Sistema Financeiro
 
 <p align="center">
- <a href="#-objetivo">Objetivo</a> ï
- <a href="#-funcionalidades">Funcionalidades</a> ï
- <a href="#-layout">Layout</a> ï 
- <a href="#-como-executar-o-projeto">Como executar</a> ï 
- <a href="#-tecnologias">Tecnologias</a> ï 
- <a href="#-contribuidores">Contribuidores</a> ï 
- <a href="#-autor">Autor</a> ï 
- <a href="#user-content--licenÁa">LicenÁa</a>
+ <a href="#-objetivo">Objetivo</a> ‚Ä¢
+ <a href="#-funcionalidades">Funcionalidades</a> ‚Ä¢
+ <a href="#-layout">Layout</a> ‚Ä¢ 
+ <a href="#-como-executar-o-projeto">Como executar</a> ‚Ä¢ 
+ <a href="#-tecnologias">Tecnologias</a> ‚Ä¢ 
+ <a href="#-contribuidores">Contribuidores</a> ‚Ä¢ 
+ <a href="#-autor">Autor</a> ‚Ä¢ 
+ <a href="#user-content--licen√ßa">Licen√ßa</a>
 </p>
 
 #### Objetivo
 
-O objetivo desse projeto È promover o gest„o financeira pessoal.
+O objetivo desse projeto √© promover o gest√£o financeira pessoal.
 
 #### Tecnologias
 
-Ser· utilizado no _backend NestJS, MongoDB, AWS S3_.
+Ser√° utilizado no _backend NestJS, MongoDB, AWS S3_.
 
-Ser· utilizado no frontend _web_ ser· utilizado Angular, o aplicativo ser· em _Ionic Angular_ e o _desktop_ em _Electron Angular_.
+Ser√° utilizado no frontend _web_ ser√° utilizado Angular, o aplicativo ser√° em _Ionic Angular_ e o _desktop_ em _Electron Angular_.
 
 #### Funcionalidades
 
-|**FUNC001 - AutenticaÁ„o e AutorizaÁ„o de Usu·rios do Sistema**|
+|**FUNC001 - Autentica√ß√£o e Autoriza√ß√£o de Usu√°rios do Sistema**|
 |--|
-|O **Usu·rio** cadastra seus dados (Nome, E-mail, Telefone, Senha e Contrasenha) |
-|O **Sistema** emite uma confirmaÁ„o por E-mail ou Telefone (Whatsapp, SMS ou LigaÁ„o)|
-|O **Usu·rio** confirma os dados via E-mail ou Telefone e tem permiss„o de acessar o **Sistema**|
-|O **Sistema** exibe os dados de acordo com o **Perfil de Usu·rio**|
+|O **Usu√°rio** cadastra seus dados (Nome, E-mail, Telefone, Senha e Contrasenha) |
+|O **Sistema** emite uma confirma√ß√£o por E-mail ou Telefone (Whatsapp, SMS ou Liga√ß√£o)|
+|O **Usu√°rio** confirma os dados via E-mail ou Telefone e tem permiss√£o de acessar o **Sistema**|
+|O **Sistema** exibe os dados de acordo com o **Perfil de Usu√°rio**|
 
-#### ProtÛtipos
+#### Prot√≥tipos
 
 #### Modelagem de Dados
 
 #### Versionamento
 
-| Vers„o                                                                        | LanÁamento |
+| Vers√£o                                                                        | Lan√ßamento |
 | -------------------------------------------------------------------------------- | --------------  |
 | [v1.0.0](https://github.com/quintinodigital/sistemafinanceiroapp/tags) | DD/MM/AAAA  |
 
 #### Demandas
 
+| N√∫mero | Descri√ß√£o |
+| -------------------------------------------------------------------------------- | --------------  |
+| SISTEMAFINANCEIROAPI-17022022123936 | Implementar configura√ß√µes iniciais do projeto bem como a conex√£o com Banco de Dados MongoDB  |
+
 ##### Sprint 001/2022
 
-- [A] FUNC001 - AutenticaÁ„o e AutorizaÁ„o de Usu·rios do Sistema
+- [A] FUNC001 - Autentica√ß√£o e Autoriza√ß√£o de Usu√°rios do Sistema
