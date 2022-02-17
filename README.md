@@ -27,7 +27,8 @@ Será utilizado no frontend _web_ será utilizado Angular, o aplicativo será em
 |--|
 |O **Usuário** cadastra seus dados (Nome, E-mail, Telefone, Senha e Contrasenha) |
 |O **Sistema** emite uma confirmação por E-mail ou Telefone (Whatsapp, SMS ou Ligação)|
-|O **Usuário** confirma os dados via E-mail ou Telefone e tem permissão de acessar o **Sistema**|
+|O **Usuário** confirma os dados via E-mail ou Telefone e tem permissão de acessar o **Sistema** (via redirecionamento ou tela de Login)|
+|O **Usuário** confirma os dados E-mail ou Telefone e a senha e permissão de acessar o **Sistema**|
 |O **Sistema** exibe os dados de acordo com o **Perfil de Usuário**|
 
 #### Protótipos
