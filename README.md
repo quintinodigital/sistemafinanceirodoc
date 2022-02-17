@@ -42,9 +42,9 @@ Será utilizado no frontend _web_ será utilizado Angular, o aplicativo será em
 
 #### Demandas
 
-| Número | Descrição |
+| Número | Descrição | Situação | 
 | -------------------------------------------------------------------------------- | --------------  |
-| SISTEMAFINANCEIROAPI-17022022123936 | Implementar configurações iniciais do projeto bem como a conexão com Banco de Dados MongoDB  |
+| SISTEMAFINANCEIROAPI-17022022123936 | Implementar configurações iniciais do projeto bem como a conexão com Banco de Dados MongoDB  | Aguardando |
 
 ##### Sprint 001/2022
 
