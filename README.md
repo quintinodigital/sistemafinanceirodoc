@@ -46,7 +46,7 @@ Será utilizado no frontend _web_ será utilizado Angular, o aplicativo será em
 | Número | Descrição | Situação | 
 | -------------------------------------------------------------------------------- | --------------  | --------------  |
 | [SISTEMAFINANCEIROAPI-17022022123936](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIROAPI-17022022123936) | Implementar configurações iniciais do projeto bem como a conexão com Banco de Dados MongoDB  | Finalizado |
-| [SISTEMAFINANCEIROAPI-17022022130418](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIROAPI-17022022123936) | Funcionalidade - Autenticação e Autorização de Usuários do Sistema | Aguardando |
+| [SISTEMAFINANCEIROAPI-17022022130418](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIROAPI-17022022130418) | Funcionalidade - Autenticação e Autorização de Usuários do Sistema | Aguardando |
 
 ##### Sprint 001/2022
 
