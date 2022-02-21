@@ -44,7 +44,7 @@ Será utilizado no frontend _web_ será utilizado Angular, o aplicativo será em
 #### Demandas
 
 | Sistema | Número | Descrição | Situação | 
-| -------------------------------------------------------------------------------- | --------------  | --------------  |
+| --------------  | -------------------------------------------------------------------------------- | --------------  | --------------  |
 | SISTEMAFINANCEIROAPI | [17022022123936](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIROAPI-17022022123936) | Implementar configurações iniciais do projeto bem como a conexão com Banco de Dados MongoDB  | Finalizado |
 | SISTEMAFINANCEIROAPI | [SISTEMAFINANCEIROAPI-17022022130418](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIROAPI-17022022130418) | Funcionalidade de Autenticação e Autorização de Usuários do Sistema | Executando |
 | SISTEMAFINANCEIROAPI |[SISTEMAFINANCEIROAPP-20022022142043](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIROAPP-20022022142043) | Funcionalidade de Autenticação e Autorização de Usuários do Sistema | Executando |
