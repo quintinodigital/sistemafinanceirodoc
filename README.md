@@ -50,7 +50,7 @@ Será utilizado no frontend _web_ será utilizado Angular, o aplicativo será em
 | SISTEMAFINANCEIROAPI |[20022022142043](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIROAPP-20022022142043) | Funcionalidade de Autenticação e Autorização de Usuários do Sistema | Executando |
 | SISTEMAFINANCEIROAPI |[21012022113011](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIRO-21012022113011) | Funcionalidade de Gestão de Contratos | Executando |
 | SISTEMAFINANCEIROAPI|[21012022143405](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIRO-21012022113011) | Funcionalidade de Gestão de Contas Bancárias | Executando |
-| SISTEMAFINANCEIROAPI|[22022022170424](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIRO-21012022113011) | Funcionalidade de Gestão Cartões Bancários | Executando |
+| SISTEMAFINANCEIROAPI|[22022022170424](https://github.com/quintinodigital/sistemafinanceiroapi/tree/SISTEMAFINANCEIROAPI-22022022170424) | Funcionalidade de Gestão Cartões Bancários | Executando |
 
 ##### Sprint 001/2022
 
